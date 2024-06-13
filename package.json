@@ -1,0 +1,25 @@
+{
+  "name": "oop_pro-2024",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "GHULAM RAUF KHAN",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/cli-table": "^0.3.4",
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.14.2"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "cli-table": "^0.3.11",
+    "cli-table3": "^0.6.5",
+    "inquirer": "^9.2.23"
+  }
+}
